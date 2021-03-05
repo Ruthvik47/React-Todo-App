@@ -1,0 +1,16 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  
+}
+
+select{
+    width: 8rem;
+}
+
+.textField{
+    border : 1px solid #333;
+    
+}
